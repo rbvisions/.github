@@ -1,5 +1,5 @@
 
-  <img src="https://rbvisions.github.io/playhtml/banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://rbvisions.github.io/happyhtml/banner.png" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 
 ### Behind the code, there’s always a story.
 
-<img src="https://rbvisions.github.io/playhtml/logo.png" alt="Benjamin Oliver Blanke" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://rbvisions.github.io/happyhtml/logo.png" alt="Benjamin Oliver Blanke" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
